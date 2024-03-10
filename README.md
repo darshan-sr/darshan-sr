@@ -33,9 +33,9 @@
 
 ## 📊 / stats /
 
-![Gfpaiva's GitHub stats](https://github-readme-stats.vercel.app/api?username=gfpaiva&count_private=true&show_icons=true&theme=dracula&hide=contribs)
+![Gfpaiva's GitHub stats](https://github-readme-stats.vercel.app/api?username=darshan-sr&count_private=true&show_icons=true&theme=dracula&hide=contribs)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gfpaiva&layout=compact&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=darshan-sr&layout=compact&theme=dracula)
 
 ## 📊 / connect with me /
 
