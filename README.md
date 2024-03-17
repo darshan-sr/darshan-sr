@@ -4,8 +4,7 @@
 
 - 🇧🇷 I live in Bengaluru, India.
 - 💬 Languagues - English, Hindi, Kannada.
-- 🏢 Currently working as **Front-end developer** at <a href="https://picpay.com/" target="_blank"><img src="https://img.shields.io/badge/-PicPay-05122A?style=flat&logo=picpay" /></a>
-- 📚 Currently learning Mobile development (React Native/Expo) and Back-end Development (Python and NodeJS).
+- 📚 Currently learning Mobile development (React Native/Expo) 
 
 ## ⚒️ / tech stack /
 
@@ -27,9 +26,6 @@
 ### IDEs
 <img src="https://img.shields.io/badge/-VS_Code-05122A?style=flat&logo=visualstudiocode" />
 
-### OS
-<img src="https://img.shields.io/badge/-macOS-05122A?style=flat&logo=apple" /> <img src="https://img.shields.io/badge/-Ubuntu-05122A?style=flat&logo=ubuntu" /> <img src="https://img.shields.io/badge/-Windows-05122A?style=flat&logo=windows" />
-
 
 ## 📊 / stats /
 
@@ -37,17 +33,4 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=darshan-sr&layout=compact&theme=dracula)
 
-## 📊 / connect with me /
-
-<a href="https://guilherme.dev/resume.pdf" target="_blank"><img src="https://img.shields.io/badge/-My_Resume-05122A?style=flat&logo=readme" /></a>
-<a href="https://guilherme.dev/" target="_blank"><img src="https://img.shields.io/badge/-https://guilherme.dev/-05122A?style=flat&logo=googlechrome" /></a>
-<a href="mailto:gf.paiva@yahoo.com.br" target="_blank"><img src="https://img.shields.io/badge/-gf.paiva@yahoo.com.br-05122A?style=flat&logo=mail.ru" /></a>
-<a href="https://www.linkedin.com/in/gfpaiva/" target="_blank"><img src="https://img.shields.io/badge/-gfpaiva-05122A?style=flat&logo=linkedin" /></a>
-<a href="https://www.instagram.com/gf.paiva/" target="_blank"><img src="https://img.shields.io/badge/-gf.paiva-05122A?style=flat&logo=instagram" /></a>
-
-## 🎮 / lets play /
-
-<a href="https://steamcommunity.com/id/gfpaiva/" target="_blank"><img src="https://img.shields.io/badge/-gfpaiva-05122A?style=flat&logo=steam" /></a>
-<a href="https://account.xbox.com/pt-br/profile?gamertag=gfx6974" target="_blank"><img src="https://img.shields.io/badge/-gfx6974-05122A?style=flat&logo=xbox" /></a>
-<img src="https://img.shields.io/badge/-suicidalll%231535-05122A?style=flat&logo=battle.net" />
 
