@@ -31,6 +31,4 @@
 
 ![Gfpaiva's GitHub stats](https://github-readme-stats.vercel.app/api?username=darshan-sr&count_private=true&show_icons=true&theme=dracula&hide=contribs)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=darshan-sr&layout=compact&theme=dracula)
-
 
