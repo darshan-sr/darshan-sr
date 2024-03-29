@@ -2,7 +2,7 @@
 
 ## 👨🏻‍💻 / about me /
 
-- 🇧🇷 I live in Bengaluru, India.
+- 🇮🇳 I live in Bengaluru, India.
 - 💬 Languagues - English, Hindi, Kannada.
 - 📚 Currently learning Mobile development (React Native/Expo) 
 
@@ -12,7 +12,7 @@
 <img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript" /> <img src="https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript" />
 
 ### Front-end
-<img src="https://img.shields.io/badge/-HTML-05122A?style=flat&logo=html5" /> <img src="https://img.shields.io/badge/-CSS-05122A?style=flat&logo=css3" /> <img src="https://img.shields.io/badge/-Sass-05122A?style=flat&logo=sass" /> <img src="https://img.shields.io/badge/-React-05122A?style=flat&logo=react" /> <img src="https://img.shields.io/badge/-NextJS-05122A?style=flat&logo=next.js" /> <img src="https://img.shields.io/badge/-Storybook-05122A?style=flat&logo=storybook" /> <img src="https://img.shields.io/badge/-Testing_Library-05122A?style=flat&logo=TestingLibrary" />
+<img src="https://img.shields.io/badge/-HTML-05122A?style=flat&logo=html5" /> <img src="https://img.shields.io/badge/-CSS-05122A?style=flat&logo=css3" /> <img src="https://img.shields.io/badge/-React-05122A?style=flat&logo=react" /> <img src="https://img.shields.io/badge/-NextJS-05122A?style=flat&logo=next.js" />  <img src="https://img.shields.io/badge/-Testing_Library-05122A?style=flat&logo=TestingLibrary" />
 
 ### Mobile
 <img src="https://img.shields.io/badge/-Dart-05122A?style=flat&logo=dart" /> <img src="https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter" /> <img src="https://img.shields.io/badge/-React_Native-05122A?style=flat&logo=react" /> <img src="https://img.shields.io/badge/-Expo-05122A?style=flat&logo=expo" />
