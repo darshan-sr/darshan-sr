@@ -4,4 +4,4 @@
 
 - 🇮🇳 I live in Bengaluru, India.
 - 💬 Languagues - English, Hindi, Kannada.
-- 📚 Currently building promptuml
+- 📚 Currently building https://www.ezdiagram.com
